@@ -1,0 +1,10 @@
+{
+  "name": "s08-mongo-pokedex",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "oclock.io",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.13.0"
+  }
+}
